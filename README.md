@@ -88,7 +88,7 @@ pip install pandas numpy lightgbm scikit-learn
 ## Author
 
 **Sunnygking**
-GitHub: [@Sunnygking](https://github.com/Sunnygking)
+GitHub: [@Sunnyngking](https://github.com/Sunnyngking)
 
 ---
 
